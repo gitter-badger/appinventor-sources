@@ -1,5 +1,7 @@
 #Welcome to MIT App Inventor
 
+[![Join the chat at https://gitter.im/Manthan-R-Sheth/appinventor-sources](https://badges.gitter.im/Manthan-R-Sheth/appinventor-sources.svg)](https://gitter.im/Manthan-R-Sheth/appinventor-sources?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ##Introduction
 
 Learn more about [MIT App Inventor](http://appinventor.mit.edu).
